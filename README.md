@@ -38,7 +38,7 @@ Este ejecutable es para Mac, solo debes descargarlo, darle permisos de ejecució
 
 ```bash
 $ chmod a+x edteam-spa-mac
-$ ./edteam-spa
+$ ./edteam-spa-mac
 ```
 
 El comando `chmod` es para darle permiso de ejecución al archivo.
